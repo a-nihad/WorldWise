@@ -1,7 +1,7 @@
-import styles from './Message.module.css'
+import styles from "./Message.module.css";
 function Message({ message }) {
   return (
-    <p className={styles.message} >
+    <p className={styles.message}>
       <span role="img"> 👋 </span> {message}
     </p>
   );

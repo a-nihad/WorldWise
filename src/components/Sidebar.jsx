@@ -9,11 +9,11 @@ function SideBar() {
       <Logo />
       <AppNav />
 
-      { /*nested router */ }
-      <Outlet/> 
-
-      <footer className={styles.footer} >
-        <p className={styles.copyright} > &copy; Copyright {new Date().getFullYear()} by Worldwise Inc. </p>
+      <Outlet />
+      <footer className={styles.footer}>
+        <p className={styles.copyright}>
+          &copy; Copyright {new Date().getFullYear()} by Worldwise Inc.
+        </p>
       </footer>
     </div>
   );
