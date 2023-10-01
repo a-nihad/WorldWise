@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Nilambur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-01T09:42:53.107Z",
+      "notes": "my place",
+      "position": {
+        "lat": "11.290200943093582",
+        "lng": "76.25198364257814"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2022-10-01T10:31:49.000Z",
+      "notes": "good",
+      "position": {
+        "lat": "25.260842624760226",
+        "lng": "55.32714843750001"
+      },
+      "id": 98443201
     }
   ]
 }
